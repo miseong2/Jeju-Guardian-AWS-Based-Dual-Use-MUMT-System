@@ -1,4 +1,4 @@
-# 🛡️ Jeju Guardian: Cloud-Native Dual-Use MUM-T System
+# 🛡️ Jeju Guardian: AWS-based Dual-Use MUMT System
 > **AWS 기반 지능형 유무인 복합 체계: 해양 안보 및 환경 위기 통합 대응 솔루션**
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
