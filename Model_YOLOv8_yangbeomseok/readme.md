@@ -17,7 +17,7 @@
 <img width="2250" height="1500" alt="Image" src="https://github.com/user-attachments/assets/ad5ae080-28f2-400e-9696-203588fcbe0c" />
 
 ## 📁 Directory Structure
-- `Ship-Detection-AI/`: 데이터 전처리(`jeju.py`) 및 실전 추론(`test.py`) 소스 코드
+- `Ship-Detection-AI/`: 데이터 전처리(`data_process.py`) 및 학습(`train.py`) 소스 코드
 - `Runs/`: 학습 성적표(PR Curve) 및 최적 가중치(`best.pt`)
 - `yolo_ship_dataset/`: 모델 학습을 위한 YAML 설정 파일
 
