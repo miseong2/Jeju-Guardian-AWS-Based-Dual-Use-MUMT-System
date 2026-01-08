@@ -1,0 +1,6 @@
+names:
+  0: Marine Debris
+  1: Ship
+path: /home/sagemaker-user/dataset_yolo
+train: train/images
+val: val/images

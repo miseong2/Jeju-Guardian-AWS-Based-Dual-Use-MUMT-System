@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "/home/sagemaker-user/datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "d5b9767bef47e31d3b3815dbb352c4c88c5560cbc9ec9017aac47acc933d6db5",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

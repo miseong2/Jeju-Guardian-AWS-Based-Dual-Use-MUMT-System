@@ -1,0 +1,13 @@
+{
+  "shell_port": 38341,
+  "iopub_port": 42225,
+  "stdin_port": 41185,
+  "control_port": 39293,
+  "hb_port": 47753,
+  "ip": "127.0.0.1",
+  "key": "47b2da41-75253c3a00cd2090cf3a2969",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/MARIDA/patches/S2_1-12-19_48MYU/Untitled.ipynb"
+}
